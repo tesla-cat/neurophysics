@@ -3,7 +3,7 @@
 
 ## people I know
 
-### connectome
+### 1. connectome
 
 #### Anthony Zador, Cold Spring Harbor Laboratory
 
@@ -29,7 +29,7 @@
 
 - connectome from MRI
 
-### simulation
+### 2. simulation
 
 #### Kwabena Boahen, Stanford University
 
