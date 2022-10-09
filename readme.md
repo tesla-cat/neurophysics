@@ -42,3 +42,14 @@
 <img src="https://psychology.ucdavis.edu/people/oreilly/image_normal" width="100">
 
 - software based brain simulation
+
+
+## notes
+
+### computational cognitive neuroscience (Randall Reilly)
+
+- [ch1_intro](./notes/computational_cognitive_neuroscience/ch1_intro.md)
+- [ch2_neuron](./notes/computational_cognitive_neuroscience/ch2_neuron.md)
+- [ch3_networks](./notes/computational_cognitive_neuroscience/ch3_networks.md)
+- [ch4_learning](./notes/computational_cognitive_neuroscience/ch4_learning.md)
+- [ch5_brain_areas](./notes/computational_cognitive_neuroscience/ch5_brain_areas.md)
