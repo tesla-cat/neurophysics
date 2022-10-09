@@ -37,7 +37,7 @@
 
 - hardware based brain simulation
 
-#### Randall O'Reilly, UC Davis
+#### Randall Reilly, UC Davis
 
 <img src="https://psychology.ucdavis.edu/people/oreilly/image_normal" width="200">
 
