@@ -1,5 +1,5 @@
 
-# neuroscience
+# neurophysics
 
 ## people I know
 
